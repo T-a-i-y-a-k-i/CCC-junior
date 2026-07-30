@@ -1,3 +1,4 @@
+package CCC_2022_Junior;
 import java.util.Scanner;
 import java.util.HashMap;
 
