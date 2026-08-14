@@ -1,3 +1,4 @@
+package CCC_2020_Junior;
 import java.util.Scanner;
 
 public class CCC_2020_J4 {
